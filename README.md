@@ -103,6 +103,7 @@ Tools that use AI, recycling and automation to keep your feeds full.
 
 | Tool | Best For | Highlights |
 | --- | --- | --- |
+| [Beamora](https://www.beamora.app) | Creators & solo founders | AI-powered viral concept remixing, script breakdowns and multi-platform publishing. |
 | [ContentStudio](https://contentstudio.io) | AI-assisted content pipelines | AI writer, content discovery, RSS automation and evergreen recycling. |
 | [SocialBee](https://socialbee.com) | Evergreen categories | Category-based queues and content recycling. |
 | [MeetEdgar](https://meetedgar.com) | Set-and-forget posting | Automated evergreen content library. |
