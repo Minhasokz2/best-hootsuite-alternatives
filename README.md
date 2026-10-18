@@ -112,6 +112,7 @@ Tools that use AI, recycling and automation to keep your feeds full.
 | [Missinglettr](https://missinglettr.com) | Bloggers | Turns each blog post into a drip campaign. |
 | [Nuelink](https://nuelink.com) | Feed automation | Auto-posting from RSS, blogs and stores. |
 | [StoryChief](https://storychief.io) | Multichannel content | Publish to blogs, social and employee advocacy. |
+| [JuzPost](https://www.juzpost.com) | AI assistants & creators | Schedules posts to 11 networks from Claude or the web app; free plan. |
 
 ## 🏢 Tools for Agencies
 
